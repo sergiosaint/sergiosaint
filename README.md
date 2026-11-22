@@ -16,7 +16,6 @@ Software engineer, 16 years in software, from **Lisbon to the English Midlands (
 
 ### Elsewhere
 
-- **Open source:** a clean-up pull request to [SWIRL](https://github.com/TheGlengineer/SWIRL/pull/10), a modern menu for the Sega Dreamcast, written in C.
 - **Puzzles:** [CodinGame](https://www.codingame.com/profile/754780b7d918ea7bfd95c2024cf2075c185159) and [Codewars](https://www.codewars.com/users/RagnaRockPT), where I've also published three katas of my own.
 - **Off the clock:** retro consoles, co-op puzzle games and [Steam](https://steamcommunity.com/id/sergio_saint/) achievements.
 
