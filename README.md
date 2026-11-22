@@ -1,5 +1,3 @@
-<a href="https://sergiosaint.github.io/"><img src="https://sergiosaint.github.io/og.png" alt="Sérgio Lopes, backend software engineer. I build software that tells stores how much to bake tomorrow and what's in stock today." width="100%"></a>
-
 ## Olá, I'm Sérgio
 
 Software engineer, 16 years in software, from **Lisbon to the English Midlands (Warwick)**: retail, product configuration, insurance, logistics, maritime surveillance and SAP.
