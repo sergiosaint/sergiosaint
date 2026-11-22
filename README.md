@@ -2,14 +2,11 @@
 
 ## Olá, I'm Sérgio
 
-Backend software engineer in Warwick, UK. I build software that tells stores **how much to bake tomorrow** and **what's in stock today**.
-
-- At **Sainsbury's** since 2019. I built the forecasting algorithms behind bakery, pizza and hot-food production planning (Team of the Year 2020, around £4m of value the following year), and now integrate in-store RFID data to track Tu clothing stock.
-- In my own time I built and run **[Simula Imóvel](https://simulaimovel.com/)**, free property calculators for Portugal (IMT and IMT Jovem, IMI for all 308 municipalities, affordability, early repayment and rental yield).
-- 16 years in software, from **Lisbon to the English Midlands**: retail, product configuration, insurance, logistics, maritime surveillance and SAP.
+Software engineer, 16 years in software, from **Lisbon to the English Midlands (Warwick)**: retail, product configuration, insurance, logistics, maritime surveillance and SAP.
 - Mostly **C#, .NET, SQL Server and Azure**, with **React and TypeScript** when the job needs a front end.
-- Portuguese, English and Spanish. UK settled status, so no visa sponsorship needed, and an EU citizen.
-- Always happy to talk about backend or full-stack .NET roles: see my **[interactive CV](https://sergiosaint.github.io/)** or find me on **[LinkedIn](https://www.linkedin.com/in/sergionlopes/)**.
+- Portuguese, English and Spanish.
+
+see my **[interactive CV](https://sergiosaint.github.io/)**
 
 ### Things I've built
 
