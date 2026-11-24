@@ -1,8 +1,8 @@
 ## Olá, I'm Sérgio
 
-Software engineer, 16 years in software, from **Lisbon to the English Midlands (Warwick)**: retail, product configuration, insurance, logistics, maritime surveillance and SAP.
+Software engineer with 16 years of experience, from **Lisbon to the English Midlands (Warwick)**: retail, product configuration, insurance, logistics, maritime surveillance and SAP.
 - Mostly **C#, .NET, SQL Server and Azure**, with **React and TypeScript** when the job needs a front end.
-- Speak Portuguese, English and Spanish. See my **[interactive CV](https://sergiosaint.github.io/)**
+- Speak Portuguese, English and Spanish. See my **[interactive CV](https://sergiosaint.github.io/)**.
 
 ### Things I've built
 
